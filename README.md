@@ -112,7 +112,7 @@ This project reflects **real-world DevOps thinking**:
 
 ```bash
 docker compose up -d
-Then change the permission of the script using -> chmod +x monitor.sh
+chmod +x monitor.sh
 bash monitor.sh
 ```
 
